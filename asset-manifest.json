@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://psmnevndl.github.io/csb-fhf8f/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://psmnevndl.github.io/csb-fhf8f/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://psmnevndl.github.io/csb-fhf8f/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://psmnevndl.github.io/csb-fhf8f/static/js/runtime-main.6b8be2a8.js",
+    "runtime-main.js.map": "https://psmnevndl.github.io/csb-fhf8f/static/js/runtime-main.6b8be2a8.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://psmnevndl.github.io/csb-fhf8f/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://psmnevndl.github.io/csb-fhf8f/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://psmnevndl.github.io/csb-fhf8f/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://psmnevndl.github.io/csb-fhf8f/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://psmnevndl.github.io/csb-fhf8f/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8be2a8.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
